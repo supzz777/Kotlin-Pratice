@@ -1,0 +1,6 @@
+create account
+withdraw
+deposit
+check bal
+deactivate account
+exit..

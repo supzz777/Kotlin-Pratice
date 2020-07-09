@@ -1,0 +1,18 @@
+{
+  "customers" : [ {
+    "name" : "Supriya Kengar",
+    "account_type" : "Savings",
+    "account_num" : 1234567890123456,
+    "account_balance" : 22833
+  }, {
+    "name" : "Shweta Dhobi",
+    "account_type" : "Current",
+    "account_num" : 1234567890123458,
+    "account_balance" : 19277
+  }, {
+    "name" : "Komal",
+    "account_type" : "Current",
+    "account_num" : 6009475082466118,
+    "account_balance" : 900
+  } ]
+}
